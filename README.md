@@ -1,9 +1,10 @@
 # tercera y cuarta previa de computacion blanda
 
 10 archivos de logica difusa
+archivo Union logica difusa
+app de futbol logica difusa
 
 control difuso 1
-
 control difuso 2
 
 proyecto algoritmo reconocimiento de placas
